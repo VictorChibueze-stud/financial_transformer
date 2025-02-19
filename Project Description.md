@@ -17,15 +17,6 @@ This project explores the use of transformer models to build robust trading bots
 - Aims to create robust trading strategies
 
 
-## Installation
-
-```bash
-git clone https://github.com/yourusername/multi-timeframe-transformer-trading.git
-cd multi-timeframe-transformer-trading
-pip install -r requirements.txt
-```
-
-
 ## Usage
 
 (To be updated as the project progresses)
@@ -60,20 +51,4 @@ pip install -r requirements.txt
 5. **Trading Bot**: Logic for executing trades based on model predictions.
 6. **Evaluation**: Backtesting and performance metrics for the trading bot.
 
-## Contributing
-
-We welcome contributions! Please see `CONTRIBUTING.md` for details on how to submit pull requests.
-
-## License
-
-This project is licensed under the MIT License - see the `LICENSE` file for details.
-
-## Acknowledgments
-
-- [List any references or inspirations]
-
-
-## Disclaimer
-
-This project is for educational purposes only. Trading carries a high level of risk, and not all trading strategies are suitable for everyone. Do not risk money you cannot afford to lose.
 
